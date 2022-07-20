@@ -11,7 +11,10 @@ See also [voschezang.github.io/](https://voschezang.github.io/) and these [visua
 
 <img src="https://github.com/voschezang/data-science-templates/blob/main/img/bayesian_fits.png?raw=true" style="width: 600px" alt="Plot of Bayesian regression and Gaussian Processes">
 
-
 A generic [subshell](https://github.com/voschezang/data-science-templates) with auto-generated documentation.
 
 <img src="https://github.com/voschezang/data-science-templates/blob/main/img/shell_dropdown.png?raw=true" style="width: 200px" alt="Example of a shell with a dropdown completion menu">
+
+An [OAS generator](https://github.com/voschezang/data-science-templates) that can parse raw JSON and convert it to Python classes
+
+<img src="https://github.com/voschezang/data-science-templates/blob/main/img/generated_oas.png?raw=true" style="width: 400px" alt="OAS Example">
