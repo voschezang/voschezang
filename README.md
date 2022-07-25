@@ -19,5 +19,12 @@ An [OAS generator](https://github.com/voschezang/data-science-templates) that ca
 
 <img src="https://github.com/voschezang/data-science-templates/blob/main/img/generated_oas.png?raw=true" style="width: 400px" alt="OAS Example">
 
-<video src="https://user-images.githubusercontent.com/16749566/180764698-3531365e-865a-44f9-a1c2-c3697409ee15.mov" controls="loop autoplay muted"  preload="metadata" style="max-width: 360px;">
+Visualization of a [flowfield](https://en.wikipedia.org/wiki/Field_(physics)).
+
+<video src="https://user-images.githubusercontent.com/16749566/180764698-3531365e-865a-44f9-a1c2-c3697409ee15.mov" controls="loop autoplay muted"  preload="metadata" style="max-width: 360px;"> Flow Field
+</video>
+
+A particle simulation that uses a a multithreaded [quadtree](https://en.wikipedia.org/wiki/Quadtree).
+
+<video src="https://user-images.githubusercontent.com/16749566/180805915-dadd689e-8cf2-44f6-9a3c-ae3228c8b458.mov" controls="loop autoplay muted"  preload="metadata" style="max-width: 360px;">Particle Tree
 </video>
