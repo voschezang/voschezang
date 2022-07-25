@@ -18,3 +18,6 @@ A generic [subshell](https://github.com/voschezang/data-science-templates) with 
 An [OAS generator](https://github.com/voschezang/data-science-templates) that can also parse raw JSON and convert it to Python classes
 
 <img src="https://github.com/voschezang/data-science-templates/blob/main/img/generated_oas.png?raw=true" style="width: 400px" alt="OAS Example">
+
+<video src="https://user-images.githubusercontent.com/16749566/180764698-3531365e-865a-44f9-a1c2-c3697409ee15.mov" controls="loop autoplay muted"  preload="metadata" style="max-width: 360px;">
+</video>
