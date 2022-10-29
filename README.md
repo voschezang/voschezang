@@ -26,6 +26,10 @@ See [voschezang.github.io/](https://voschezang.github.io/).
 </video>
 </details>
 
+### Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=voschezang&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)
+
 
 ### Papers
 - [Style transfer](https://github.com/voschezang/drum-style-transfer) of drum patterns using machine learning.
@@ -52,4 +56,3 @@ See [voschezang.github.io/](https://voschezang.github.io/).
 <br>
 <img src="https://github.com/voschezang/data-science-templates/blob/main/img/generated_oas.png?raw=true" style="width: 400px" alt="OAS Example">
 </details>
-
