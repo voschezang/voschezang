@@ -5,8 +5,8 @@ See [voschezang.github.io/](https://voschezang.github.io/) and:
 <details>
 <summary>Visualization of a <a href="https://en.wikipedia.org/wiki/Field_(physics)">flowfield</a>.</summary>
 <br>
-<sub><sup><em>(reload this page if necessary)</em></sup></sub>
-<video src="https://user-images.githubusercontent.com/16749566/180764698-3531365e-865a-44f9-a1c2-c3697409ee15.mov" controls="loop autoplay muted"  preload="metadata" style="max-width: 360px;"> Flow Field
+<sub><sup><em>(reload this page in case of errros)</em></sup></sub>
+  <video src="https://user-images.githubusercontent.com/16749566/180764698-3531365e-865a-44f9-a1c2-c3697409ee15.mov" controls="loop autoplay muted"  preload="metadata" style="max-width: 360px;"> Flow Field
 </video>
 </details>
 
@@ -14,7 +14,7 @@ See [voschezang.github.io/](https://voschezang.github.io/) and:
 <details>
 <summary>A particle simulation that uses a a multithreaded <a href="https://en.wikipedia.org/wiki/Quadtree">quadtree</a>.</summary>
 <br>
-<sub><sup><em>(reload this page if necessary)</em></sup></sub>
+<sub><sup><em>(reload this page in case of errros)</em></sup></sub>
 <video src="https://user-images.githubusercontent.com/16749566/180805915-dadd689e-8cf2-44f6-9a3c-ae3228c8b458.mov" controls="loop autoplay muted"  preload="metadata" style="max-width: 360px;">Particle Tree
 </video>
 </details>
@@ -23,8 +23,8 @@ See [voschezang.github.io/](https://voschezang.github.io/) and:
 <details>
 <summary>A <a href="https://voschezang.github.io/Scientific-Computing-Models/">gas diffusion</a> simulation.</summary>
 <br>
-<sub><sup><em>(reload this page if necessary)</em></sup></sub>
-<video src="https://user-images.githubusercontent.com/16749566/198833571-cf0e1860-90c2-4142-9fda-afc5b77d279e.mp4" controls="loop autoplay muted"  preload="metadata" style="max-width: 360px;">Gas Diffusion
+<sub><sup><em>(reload this page in case of errros)</em></sup></sub>
+  <video src="https://user-images.githubusercontent.com/16749566/198833571-cf0e1860-90c2-4142-9fda-afc5b77d279e.mp4" controls="loop autoplay muted"  preload="metadata" style="max-width: 360px;">Gas Diffusion
 </video>
 
 
