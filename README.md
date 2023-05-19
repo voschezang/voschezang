@@ -2,7 +2,7 @@ Website: [voschezang.github.io](https://voschezang.github.io/) | PyPI package:
 <a href="https://pypi.org/project/mash-shell" title="PyPI"><img src="https://img.shields.io/badge/pypi-v0.1.0-blue"/></a>
 ![workflow-badge](https://github.com/voschezang/mash/actions/workflows/python-app.yml/badge.svg)
 
-# Index
+# Repository Overview
 
 **Python pet projects**
 <details>
